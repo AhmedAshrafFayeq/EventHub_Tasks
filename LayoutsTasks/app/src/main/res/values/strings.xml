@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistrationTaask</string>
+    <string name="Register">Register</string>
+    <string name="signup">SIGN UP</string>
+    <string name="Feedback">Feedback</string>
+    <string name="eventText">How do you feel about the event?</string>
+    <string name="submit">submit</string>
+</resources>
